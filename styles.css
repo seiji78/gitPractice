@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  background-color: #f1f1f1;
+}
+#container {
+  margin: 0 auto;
+  width: 800px;
+  background-color: white;
+  line-height: 1.6;
+}
+header {
+  padding: 20px 10px;
+  font-size: 0.8em;
+  text-align: center;
+  color: #333333;
+}
+main {
+  padding: 20px;
+}
+main h2 {
+  padding-bottom: 1px;
+  border-bottom: 2px solid #322acb;
+  font-size: 1.2em;
+}
+footer {
+  padding: 5px 20px;
+  background-color: #322acb;
+  color: white;
+  font-family: monospace;
+}
