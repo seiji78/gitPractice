@@ -19,12 +19,12 @@ main {
 }
 main h2 {
   padding-bottom: 1px;
-  border-bottom: 2px solid #322acb;
+  border-bottom: 2px solid #70cb2a;
   font-size: 1.2em;
 }
 footer {
   padding: 5px 20px;
-  background-color: #322acb;
+  background-color: #70cb2a;
   color: white;
   font-family: monospace;
 }
